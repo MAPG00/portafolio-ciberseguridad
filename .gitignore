@@ -1,0 +1,16 @@
+﻿# Secretos
+.env
+*.key
+*.pem
+*.pfx
+# Evidencia y muestras: no se suben
+evidencia/
+muestras/
+*.E01
+*.mem
+*.pcap
+*.pcapng
+# Entornos y archivos de Obsidian
+.venv/
+__pycache__/
+.obsidian/
